@@ -99,7 +99,7 @@
       <!-- [OPTIONAL - NON ASSESSED] Activity 6: Attribute, Class and Style Bindings -->
       <h2>Attribute, Class and Style Binding with <code>v-bind</code></h2>
       <p>Highlighting Specific Authors:</p>
-  <ul>
+      <ul>
     <li
       v-for="author in authors"
       :key="author.id"
@@ -176,7 +176,7 @@ h1 {
 }
 
 .highlight {
-  background-color: #42b883;
+  background-color: #af1345;
 }
 
 code {
